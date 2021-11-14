@@ -11,4 +11,4 @@ client.on('messageCreate' , message=>{
     }
 })
 
-client.login("ODc1OTczNDIwMTU4OTc2MDYw.YRdT0g.tsQeE0dUSJl0x1xNRZdj5IjM1VQ")
+client.login("token")
